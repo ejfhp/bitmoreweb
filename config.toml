@@ -1,0 +1,59 @@
+baseURL = "http://bitmore.it/"
+languagecode = "it"
+defaultcontentlanguage = "it"
+title = "bitmore.it"
+theme = "coder"
+
+paginate = 1
+canonifyurls = true
+pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
+pygmentscodefences = true # Enable code fence background highlighting.
+pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
+
+disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
+
+[params] # theme parameters
+    author = "info@bitmore.it" # Author's name.
+    info = "Noi ti aiutiamo a capire Bitcoin" # Author's job title or info.
+    description = "bitmore.t" # Site description.
+    keywords = "bitcoin" # Site keywords.
+    avatarurl = "images/bitmore.png" # Contain the path of the optionnal avatar in the static folder.
+
+    footercontent = "" # Add footer content
+
+    # Whether you want to hide copyright and credits in the footer.
+    hideCredits = true
+    hideCopyright = true
+
+    # Custom CSS
+    custom_css = []
+
+    # RTL support
+    rtl = false
+
+    # Multilanguage mode
+    langseparator = "|" # Separates menus from language selectors when site is multilingual.
+
+# Social links
+#  [[params.social]]
+#      name = "Github"
+#      weight = 1
+#      url = "https://github.com/johndoe/"
+#  [[params.social]]
+#      name = "Twitter"
+#      weight = 2
+#      url = "https://twitter.com/johndoe/"
+#  [[params.social]]
+#      name = "LinkedIn"
+#      weight = 3
+#      url = "https://www.linkedin.com/in/johndoe/"
+
+# Menu links
+#  [[menu.main]]
+#      name = "Blog"
+#      weight = 1
+#      url  = "/posts/"
+#  [[menu.main]]
+#      name = "About"
+#      weight = 2
+#      url = "/about/"

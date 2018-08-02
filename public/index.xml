@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bitmore.it</title>
+    <link>http://bitmore.it/</link>
+    <description>Recent content on bitmore.it</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    
+	<atom:link href="http://bitmore.it/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
